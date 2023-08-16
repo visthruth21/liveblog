@@ -1,0 +1,131 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    color: #1167c4;
+}
+.container {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+textarea {
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+.banner {
+    background-color: #4484d8;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    border-bottom: 1px solid #1351b4;
+}
+
+.title {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.email {
+    font-size: 16px;
+}
+
+.post {
+    background-color: #1877f2;
+    color: #fff;
+    border: none;
+    padding: 12px 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+    display: flex;
+    align-items: center;
+}
+
+.post-icon {
+    margin-right: 8px;
+}
+
+/* ...existing styles... */
+
+.font-buttons {
+    margin-bottom: 10px;
+}
+
+.font-buttons button {
+    background-color: #b6b6b6;
+    border: none;
+    padding: 8px 12px;
+    margin-right: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background-color 0.2s;
+}
+
+.font-buttons button:hover {
+    background-color: #e0e0e0;
+}
+
+textarea {
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    resize: none;
+    font-size: 18px; /* Adjust font size as needed */
+}
+
+#view-post {
+    margin-top: 20px;
+}
+
+#view-post .post {
+    background-color: #fff;
+    border: 1px solid #e0e0e0;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+#view-post .post button {
+    background-color: #aec9ec;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+#view-post .post button:hover {
+    background-color: #81a7e6;
+}
+
+/* ...existing styles... */
+
