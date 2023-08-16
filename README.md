@@ -1,2 +1,4 @@
-# liveblog
-Live blogging site - similar to the one zuck was using(inspired from social network)
+# VishysOnIt - live blogging
+
+live blogging site - similar to the one Zuck was using(inspired by social network)
+link - https://v-s-journal.web.app/
